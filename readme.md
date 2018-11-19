@@ -1,3 +1,3 @@
 #  Start
-* here will test the diffrent network method of metagenomics 
+* here will test the diffrent network methods of metagenomics 
 * develop a pipeline on network among  statistic test and plot
